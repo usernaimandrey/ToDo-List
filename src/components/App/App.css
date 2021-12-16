@@ -1,0 +1,16 @@
+.App {
+    display: flex;
+    flex-direction: column;
+
+    position: fixed;
+    top: 35%;
+    left: 35%;
+}
+
+h1 {
+    align-self: center;
+}
+
+.filters {
+    margin-top: 10px;
+}
